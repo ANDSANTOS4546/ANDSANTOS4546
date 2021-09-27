@@ -2,7 +2,6 @@
 
 - 🔭 Em busca de uma oportunidade como Frontend
 - 🌱 Atualmente estudando JavaScript
-- ⚡ Fun fact: Guitarrista e fã do Homem-Aranha!
 
 <div align="center">
   <a href="https://github.com/ANDSANTOS4546">
