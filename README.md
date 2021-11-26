@@ -1,7 +1,5 @@
 ### Olá, Bem vindo ao meu perfil, me chamo André Santos!!! 👋
 
-- 🔭 Em busca de uma oportunidade como Frontend
-- 🌱 Atualmente estudando JavaScript
 
 <div align="center">
   <a href="https://github.com/ANDSANTOS4546">
