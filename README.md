@@ -12,6 +12,7 @@
   <img align="center" alt="Azure" height="30" width="30" src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000">
   <img align="center" alt="GCP" height="30" width="30" src="https://img.icons8.com/?size=100&id=fpGM2cINbbu4&format=png&color=000000">
   <img align="center" alt="Docker" height="30" width="30" src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000">
+  <img align="center" alt="Kubernetes" height="30" width="30" src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000">
   <img align="center" alt="Terraform" height="30" width="30" src="https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000">
   <img align="center" alt="Ansible" height="30" width="30" src="https://img.icons8.com/?size=100&id=iGCCE2iEmh2u&format=png&color=000000">
   <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
